@@ -1,4 +1,4 @@
-本工具箱基于Matlab平台和集DEM 数据预处理、河流高程剖面分析、流域面状要素分析三大功能模块。以开源函数库TopoToolbox、RiverRroAnalysis、Transient-profiler、Topographic Analysis Kit的功能基础开发了工具箱TecGeoTools v1.0。并设计了友好的可视化操作与参数配置界面，使用说明参考附件。
+本工具箱基于Matlab平台，以开源函数库TopoToolbox、RiverRroAnalysis、Transient-profiler、Topographic Analysis Kit的功能基础开发了工具箱TecGeoTools v1.0。集成了DEM 数据预处理、河流高程剖面分析、流域面状要素分析三大功能模块，几乎涵盖了构造地貌领域内目前所有开源程序的功能。并利用App designer设计了友好的可视化操作与参数配置界面，使用说明参考附件。
    
 作者联系方式：zhangyarong0606@foxmail.com
 
